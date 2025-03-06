@@ -1,0 +1,46 @@
+body{
+  background: rgb(2,0,36);
+  background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(6,8,90,1) 74%, rgb(71, 8, 113) 99%, rgb(76, 9, 121) 100%);
+  height: 100%;
+  font-family: 'Public Pixel', sans-serif;                                    
+}
+
+.greetings{
+  text-align: center;
+  color: white;
+}
+
+h5{
+  font-size: small;
+}
+
+.roles{
+  color: white;
+  font-size: 2vh;
+  width: 70%;
+}
+
+.cloud{
+  z-index: -1;
+  opacity: 0.8;
+  height: auto;
+}
+
+.skill {
+  display: block;        
+  margin: 0 auto;       
+  max-width: 70%;       
+  height: auto;         
+  filter: brightness(150%);
+  image-rendering: pixelated;
+}
+
+.separator{
+  height: 35vh;
+  display: flex;
+  justify-content: center;
+}
+
+.nav-link{
+  color: rgba(245, 245, 245, 0.692) !important;
+  }
