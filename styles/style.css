@@ -29,7 +29,7 @@ h5{
 .skill {
   display: block;        
   margin: 0 auto;       
-  max-width: 70%;       
+  width: 70%;       
   height: auto;         
   filter: brightness(150%);
   image-rendering: pixelated;
